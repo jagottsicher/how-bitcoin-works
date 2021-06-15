@@ -83,6 +83,19 @@ Take-aways:
 
 On the Dollar you can read "In God we trust" but it should say "In government and central bank we trust". 
 
+Fade-in
+### DIGITAL MONEY - a new hope
+
+Showing table with many banks and other institutions on. all have lots of money. Kids have each three houses, but little money only.
+
+> At the End of 2008 the situtation leading to the global financial crisis collapsed. Private banks had given loans to private people for buying houses. The loans were granted in a very risky way even to poor people with low income. The private banks accepted them anyway any packed them in smaller and bigger packages to sell out the liabilities as packages after they asked third party institutions to score the risk of the packages. Ususally that rating was quite high. Probably nobody had a detailed look into the smaller packages, the institutions were payed for good ratings, and they could argue at any time that the loans have been granted for a very stable market for decades, real estate, so the loans are backed with real value: houses.
+
+Geld bei Banken verbrennen lassen. Häuser gehen an Banken (Eigentumsurkunde). Banken wollen verkaufen (FOR SALE). Niemand hat Geld (Geld weg). Häuser verfallen (umschubsen)
+
+The money was burned. The real estate taken by the banks. They wanted to sell the houses, but nobody had enoguh money to buy. The banks lowered the prices to sell to limit their losses, but too late. Also no loans were given anymore and nobody could afford to buy. Eventually the prices for real estate collapsed and many houses fell prey to decay.
+
+
+
 
 
 
