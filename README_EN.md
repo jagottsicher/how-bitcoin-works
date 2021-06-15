@@ -33,4 +33,68 @@ Fade-in
 
 Showing table. 
 
-> To really understand Bitcoin as an alternative to already existing monetary systems we have a brief look at fiat money. In you contry this may differ in detail, but generally is should be very similar or at least comparable. 
+> To really understand Bitcoin as an alternative to already existing monetary systems we have a brief look at so called fiat money. In you country this may differ in detail but generally is should be very similar or at least comparable. In most countries or economically concerted areas there is an entity who grants itself the soveranity to issue money to the population. To keep it simple we call it here the Government. In our example my wife Ning represents the Goverment.
+
+Ning put a sign in front of her showing GOVERNMENT.
+
+> The goverment does whatever goverments do and one of their tasks is to provide a working monetary system. Well, they do what we all wished we could do: The print money and make some cash - literally. But due to the fact that this sounds by far more trivial as it is the goverment delegates that job to some more or less free entity which we will call now the CENTRAL BANK. Please keep in mind that in most countries, nations of conferderations all these goverment-to-state bank-to-private bank-to-economy-to-population relationsships and dependencies are much much more complicated, in some cases identical, in some areas even some kind of "out-sourced", but here in our small video the goverment also takes the role of a central bank.
+
+Ning additionally puts a sign in front of her showing CENTRAL BANK.
+
+> As you see the central bank takes care that the population has enough money. 
+
+Ning paying out 10 banknotes to each kid.
+
+> So the participiants of the economic system have enough money to make the economy go on.
+
+Justus sells a toy car to Gwen. Gwen has now only 5 bucks left.
+
+> the central bank also controls the amount of money in circulation. If there is too much money out there 
+
+Gwen opens hand to Ning, Ning refuses to give money.
+
+> then the money's value is lower and the prices go up. That could lead to inflation. and the government and the central bank always take care to keep the inflation under control because they want the value of the issued money to be as stable as possible. So is the exchange rate with other currencies. Anyway, there must also an incent for people to start something new and offer some new value, product, or service
+
+Gwen showing a paper with a drawing of a wonderfull home and a big question mark, also pointing to some bricks next to her. Ning pays out some money to her.
+
+> to the society. But sometimes this system runs out of control. At some point you a society finds itdelf at some point where inflation is so high 
+
+Justus and Gwen have lots of money. Gwen wants a car (pointing at), but Justus holds one hand open and points to all here money.
+
+> that the continuesly raised prices are overtaking the inflation and in an death-spiral of mututally increasing inflation and prices all the money becomes worthless. Only people who hoard some value of finite amount like gold can save some wealth which is more inflation-proof.
+
+Gwen puts some gold bars in her home and buys the car.
+
+> There are other curcumstands which can become a thread to the system. For example 
+
+Ning puts out three Signs "private bank" out and places money there.
+
+> Private banks could hoard money or
+
+Switch to ne scene.Sshwoing all money at Justus rubbing hands
+
+> companies could hoard money instead of investing into new ideas, reasearch, development or innovations.
+
+Take-aways: 
+- fiat money is issued and controlled by a combination of governments and ventral banks, 
+- it has a nominal value everybody agrees with, because we all agree to rely on a an underlying dependencies that the issuing entities and their mandated central banks take care about the value and establish a long-term monetary system. 
+- the value of a currency is not backed with gold for a long time. 
+- The value of US Dollar for example and its purchasing power depends on the believe and faith in the US' monetary system. 
+
+On the Dollar you can read "In God we trust" but it should say "In government and central bank we trust". 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
