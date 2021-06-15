@@ -92,10 +92,13 @@ Showing table with many banks and other institutions on. all have lots of money.
 
 Geld bei Banken verbrennen lassen. Häuser gehen an Banken (Eigentumsurkunde). Banken wollen verkaufen (FOR SALE). Niemand hat Geld (Geld weg). Häuser verfallen (umschubsen)
 
-The money was burned. The real estate taken by the banks. They wanted to sell the houses, but nobody had enoguh money to buy. The banks lowered the prices to sell to limit their losses, but too late. Also no loans were given anymore and nobody could afford to buy. Eventually the prices for real estate collapsed and many houses fell prey to decay.
+> The money was burned. The real estate taken by the banks. They wanted to sell the houses, but nobody had enoguh money to buy. The banks lowered the prices to sell to limit their losses, but too late. Also no loans were given anymore and nobody could afford to buy. Eventually the prices for real estate collapsed and many houses fell prey to decay.
 
-
-
+> At that time under a person or group of people started in some forums considerations and discussions about a digital currency which worked similar like cash, was indepentendly from any government issued, and which's participants had no need of any kind of controlling third party when doing any kind of transaction. This group or person gave himself the pseudonym "Satoshi Nakamoto". The identity ist still not known.  
+> The digital money needed to be imutable - nobody should be able to take control over somebody else's transaction, stop, block, delay, delete or reverse any valid transaction.
+> It needed to be trustless. So in any transaction any kind of from both parties trusted third party had to be eliminated. 
+> All participents need consensus about the actual state of any issued value
+> 
 
 
 
